@@ -1,4 +1,4 @@
-# Regisdjaha.github.io
+# I'am Regis Konan Marcel DJAHA
 
 Regis Djaha is a full-time Research Technician from Ivory Coast at the Basque Centre for Applied Mathematics (BCAM). He is a member of the Machine Learning group, working closely with Iñigo Urteaga, since September 2023.
 
