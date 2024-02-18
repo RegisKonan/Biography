@@ -1,4 +1,6 @@
 # I'am Regis Konan Marcel DJAHA
+# Research Technician at BCAM
+
 
 Regis Djaha is a full-time Research Technician from Ivory Coast at the Basque Centre for Applied Mathematics (BCAM). He is a member of the Machine Learning group, working closely with Iñigo Urteaga, since September 2023.
 
@@ -10,4 +12,4 @@ Regis Djaha completed his Master's degree in Mathematical Sciences on June 2022 
 
 Prior to that, Regis Djaha had obtained his Bachelor's degree in Mathematics in 2018, and a Master's degree in Mechanics and Energetics in 2020, both at the University Félix Houphouët-Boigny in Abidjan, Ivory Coast.
 
-In January 2023, he was selected as a student within the African Master's in Machine Intelligence (AMMI) program at the African Institute of Mathematical Sciences in Mbour, Senegal. This is an internationally recognized program as the most important center for Artificial Intelligence studies in Africa. He is expected to graduate from a Master's in Machine Intelligence by July 2024, with a Master Thesis supervised by Dr. Urteaga, PI of this proposal.
+In January 2023, he was selected as a student within the African Master's in Machine Intelligence (AMMI) program at the African Institute for Mathematical Sciences in Mbour, Senegal. This is an internationally recognized program as the most important center for Artificial Intelligence studies in Africa. He is expected to graduate from a Master's in Machine Intelligence by July 2024, with a Master Thesis supervised by Dr. Urteaga, PI of this proposal.
